@@ -3,3 +3,4 @@ bin
 Connected Services
 obj
 Properties
+*.csproj
